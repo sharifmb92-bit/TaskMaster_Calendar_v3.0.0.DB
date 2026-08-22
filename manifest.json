@@ -1,0 +1,16 @@
+{
+  "short_name": "TaskMaster",
+  "name": "TaskMaster Calendar Pro_v 3.0.0",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#2b1810",
+  "theme_color": "#2b1810",
+  "display": "standalone",
+  "orientation": "portrait"
+}
